@@ -1,2 +1,2 @@
 # mailsender
-MAil sender in node.js
+Mail sender in node.js
